@@ -43,7 +43,7 @@ python scripts/make_plots.py
 ```
 
 📊 Results
-<p align="center"> <img src="figures/fig_channel.png" alt="Exemption Percentage by Payment Channel" width="45%"> <img src="fig_customer.png" alt="Exemption Percentage by Customer Category" width="45%"> </p> <p align="center"> <img src="figures/fig_distribution.png" alt="Distribution of Transaction Values" width="45%"> <img src="figures/fig_region.png" alt="Exemption Percentage by Region" width="45%"> </p>
+<p align="center"> <img src="figures/fig_channel.png" alt="Exemption Percentage by Payment Channel" width="45%"> <img src="figures/fig_customer.png" alt="Exemption Percentage by Customer Category" width="45%"> </p> <p align="center"> <img src="figures/fig_distribution.png" alt="Distribution of Transaction Values" width="45%"> <img src="figures/fig_region.png" alt="Exemption Percentage by Region" width="45%"> </p>
 
 📂 Repository Structure
 ├── data/
