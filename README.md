@@ -40,7 +40,7 @@ python validate_exemption_rule.py
 
 # 6) create figures for the README
 python scripts/make_plots.py
-'''
+```
 
 📊 Results
 <p align="center"> <img src="figures/customer_category.png" alt="Exemption by Customer Category" width="45%"> <img src="figures/payment_channel.png" alt="Exemption by Payment Channel" width="45%"> </p> <p align="center"> <img src="figures/region.png" alt="Exemption by Region" width="45%"> <img src="figures/amount_distribution.png" alt="Transaction Amount Distribution" width="45%"> </p>
