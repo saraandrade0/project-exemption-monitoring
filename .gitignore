@@ -8,4 +8,4 @@ __pycache__/
 
 # Editors / OS
 .vscode/
-.DS_Store
+.DS_Store.ssh/
